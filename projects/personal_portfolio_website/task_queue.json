@@ -1,0 +1,51 @@
+[
+  {
+    "task_id": "create_index_html",
+    "type": "create_file",
+    "description": "Create the main structure of the portfolio website.",
+    "file_path": "src/index.html",
+    "code_prompt": "Write a simple HTML5 document with a basic structure, using Tailwind CSS classes for layout and styling."
+  },
+  {
+    "task_id": "add_home_section",
+    "type": "create_file",
+    "description": "Create the home section of the portfolio website.",
+    "file_path": "src/index.html",
+    "code_prompt": "Add a short bio, using Tailwind CSS classes for layout and styling."
+  },
+  {
+    "task_id": "add_projects_section",
+    "type": "create_file",
+    "description": "Create the projects section of the portfolio website.",
+    "file_path": "src/index.html",
+    "code_prompt": "Add a grid container to display project cards, using Tailwind CSS classes for layout and styling."
+  },
+  {
+    "task_id": "add_project_card",
+    "type": "create_file",
+    "description": "Create a single project card.",
+    "file_path": "src/index.html",
+    "code_prompt": "Add a card component with project details, using Tailwind CSS classes for layout and styling."
+  },
+  {
+    "task_id": "add_contact_section",
+    "type": "create_file",
+    "description": "Create the contact section of the portfolio website.",
+    "file_path": "src/index.html",
+    "code_prompt": "Add a simple form using Tailwind CSS classes for layout and styling."
+  },
+  {
+    "task_id": "add_contact_form",
+    "type": "create_file",
+    "description": "Create the contact form.",
+    "file_path": "src/index.html",
+    "code_prompt": "Add form fields and a submit button, using Tailwind CSS classes for layout and styling."
+  },
+  {
+    "task_id": "add CSS",
+    "type": "create_file",
+    "description": "Add basic CSS styles to the portfolio website.",
+    "file_path": "src/styles.css",
+    "code_prompt": "Use Tailwind CSS classes to add basic styling, including typography and layout."
+  }
+]
